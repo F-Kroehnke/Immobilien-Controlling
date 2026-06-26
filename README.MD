@@ -31,20 +31,22 @@ Hier wird die Wirtschaftlichkeit der einzelnen Wohnungen verglichen, einschließ
 **Kostenanalyse**
 Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sowie deren Entwicklung über die Zeit sichtbar. Sie unterstützt die gezielte Identifikation von Einsparpotenzialen.
 
+![Seite3](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%203%2C%20Kostenanalyse.png)
+
 **Mieteinnahmenübersicht**
 Im Mittelpunkt steht der Vergleich von Soll- und Ist-Miete sowie der Zahlungsstatus je Wohnung und Monat. Die Seite macht Mietausfälle und Überzahlungen sichtbar und unterstützt das Forderungsmanagement.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
+![Seite4](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
 
 **Wohnungsanalyse II**
 Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und zeigt Einzelbuchungen je Objekt im Zeitverlauf. Sie ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung pro Wohnung.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
+![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%205%2C%20Wohnungsanalyse%20II.png)
 
 **Kategorieanalyse**
 Hier werden Ausgaben über mehrere Jahre und Wohnungen hinweg nach Kategorie und Typ analysiert. Die Seite liefert eine detaillierte Kostenübersicht inklusive durchschnittlicher Ausgaben pro Wohnung und Monat.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
+![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%206%2C%20Wohnungsanalyse%20II.png)
 
 ## 4. Skills Showcase
 
@@ -61,7 +63,7 @@ Hier werden Ausgaben über mehrere Jahre und Wohnungen hinweg nach Kategorie und
 
 Das Datenmodell folgt einem Star-Schema und trennt Fakten- von Dimensionsdaten.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
+![Seite1](https://github.com/F-Kroehnke/Test/blob/b4dc81aa3d9da574308acd3e2940506ce7f06f4e/Bilder/Datenmodell.png)
 
 Die zentralen Faktentabellen sind **Fact_Transaktionen** (Einzelbuchungen mit Betrag, Datum, Kategorie und Wohnungszuordnung) und **Fact_Mietkonditionen** (vertragliche Soll-Mieten und Nebenkosten je Mietvertrag und Gültigkeitszeitraum).
 
