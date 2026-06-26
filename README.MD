@@ -18,10 +18,10 @@ Der Mehrwert liegt in der Zusammenführung verteilter Einzeldaten (Mietverträge
 
 ## 3. Dashboard Seiten
 
-![Dashboard Seite 1](/Dashboard_Seite_1.png)
-
 **Finanzübersicht**
 Diese Seite zeigt die wirtschaftliche Gesamtsituation des Portfolios: Einnahmen, Ausgaben und das daraus resultierende Ergebnis im Zeitverlauf sowie kumuliert über die Jahre. Sie dient als Einstiegspunkt, um die finanzielle Entwicklung auf einen Blick zu erfassen.
+
+![Dashboard Seite 1](/Dashboard_Seite_1.png)
 
 **Wohnungsanalyse**
 Hier wird die Wirtschaftlichkeit der einzelnen Wohnungen verglichen, einschließlich ihres Anteils am Gesamtergebnis und der Veränderung gegenüber dem Vorjahr. Die Seite zeigt, welche Objekte überdurchschnittlich performen und wo Optimierungsbedarf besteht.
