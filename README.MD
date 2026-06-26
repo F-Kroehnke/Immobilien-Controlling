@@ -77,3 +77,12 @@ Dieses Projekt zeigt, wie ein vollständiges Immobilien-Controlling-Cockpit mit 
 
 Im Mittelpunkt steht der Business Value: Eine konsolidierte, jederzeit abrufbare Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios, die Transparenz über Ertragslage, Kostenstruktur und Mietzahlungen schafft.
 
+## 7. Hinweis zum Projekt
+
+Die in diesem Dashboard dargestellten Daten sind vollständig **synthetisch** und wurden ausschließlich zu Demonstrations- und Portfoliozwecken erstellt.
+
+Es werden **keine realen Personen-, Wohnungs- oder Kundendaten** verarbeitet, gespeichert oder dargestellt. Sämtliche Inhalte, Datensätze und Visualisierungen dienen ausschließlich der Veranschaulichung technischer und analytischer Funktionen.
+
+Ein Bezug zu tatsächlich existierenden Personen, Immobilien oder Unternehmen ist weder beabsichtigt noch gegeben.
+
+
