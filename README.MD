@@ -1,4 +1,4 @@
-# Immobilien-Controlling Cockpit – Power BI Projekt
+# Immobilien-Controlling – Power BI Projekt
 
 ## 1. Einführung
 
