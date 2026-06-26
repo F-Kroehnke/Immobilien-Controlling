@@ -21,7 +21,7 @@ Der Mehrwert liegt in der Zusammenführung verteilter Einzeldaten (Mietverträge
 **Finanzübersicht**
 Diese Seite zeigt die wirtschaftliche Gesamtsituation des Portfolios: Einnahmen, Ausgaben und das daraus resultierende Ergebnis im Zeitverlauf sowie kumuliert über die Jahre. Sie dient als Einstiegspunkt, um die finanzielle Entwicklung auf einen Blick zu erfassen.
 
-![Dashboard Seite 1](/Dashboard_Seite_1.png)
+![Finanzübersicht](/Bilder/Seite 1, Dashboard.png)
 
 **Wohnungsanalyse**
 Hier wird die Wirtschaftlichkeit der einzelnen Wohnungen verglichen, einschließlich ihres Anteils am Gesamtergebnis und der Veränderung gegenüber dem Vorjahr. Die Seite zeigt, welche Objekte überdurchschnittlich performen und wo Optimierungsbedarf besteht.
@@ -64,3 +64,4 @@ Ergänzend existieren themenbezogene Tabellen ohne eigene Datenspalten (Finanzü
 Dieses Projekt zeigt, wie ein vollständiges Immobilien-Controlling-Cockpit mit Power BI aufgebaut wird – von der Datenmodellierung über die Berechnung betriebswirtschaftlicher Kennzahlen bis zur verständlichen Visualisierung der Ergebnisse.
 
 Im Mittelpunkt steht der Business Value: Eine konsolidierte, jederzeit abrufbare Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios, die Transparenz über Ertragslage, Kostenstruktur und Mietzahlungen schafft.
+
