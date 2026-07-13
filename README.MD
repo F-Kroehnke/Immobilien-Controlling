@@ -111,7 +111,8 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologie
   - DIVIDE()
   - DISTINCTCOUNT()
   - SAMEPERIODLASTYEAR()
-- KPI Dokumentation
+- Berichtsdokumentation
+- Tooltips (KPI Defintion)
 - Strukturierung von Measures in themenbezogenen Tabellen (Finanz-, Portfolio- und Ausgabenkennzahlen)
 - GitHub
 
