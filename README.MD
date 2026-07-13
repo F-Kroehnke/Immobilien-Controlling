@@ -33,7 +33,7 @@ Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 - Wie verteilt sich das Ergebnis auf die einzelnen Wohnungen?
 - Wie entwickelt sich das kumulative Ergebnis über die Jahre?
 
-*(Screenshot oben bereits gezeigt – kein zweites Bild nötig)*
+*(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
 **Wohnungsanalyse**
 Hier wird die Wirtschaftlichkeit der einzelnen Wohnungen verglichen, einschließlich ihres Anteils am Gesamtergebnis und der Veränderung gegenüber dem Vorjahr. Die Seite zeigt, welche Objekte überdurchschnittlich performen und wo Optimierungsbedarf besteht.
