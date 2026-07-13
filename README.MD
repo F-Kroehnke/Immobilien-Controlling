@@ -80,6 +80,7 @@ Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglich
 - Wie hoch ist das durchschnittliche monatliche Ergebnis je Wohnung?
 
 **Kategorieanalyse**
+
 Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeiträume hinweg.
 
 ![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%206%2C%20Wohnungsanalyse%20II.png)
