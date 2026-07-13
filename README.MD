@@ -12,7 +12,7 @@ Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur wenigen 
 - Detailanalyse Wohnung (Wie entwickeln sich die Betriebsergebnisse einer konkreten Wohnung und warum?)
 - Detailanalyse Kategorie (Wie entwickeln sich die Kosten einer konkreten Kategorie und warum?)
 
-Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung des Portfolios geschaffen.
+Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios geschaffen.
 
 ## 2. Dashboard Übersicht
 
