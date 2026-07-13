@@ -36,9 +36,13 @@ Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 *(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
 **Wohnungsanalyse**
-Hier wird die Wirtschaftlichkeit der einzelnen Wohnungen verglichen, einschließlich ihres Anteils am Gesamtergebnis und der Veränderung gegenüber dem Vorjahr. Die Seite zeigt, welche Objekte überdurchschnittlich performen und wo Optimierungsbedarf besteht.
+Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinander.
 
 ![Seite2](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
+
+- Welche Wohnung erzielt das beste Ergebnis?
+- Wie hoch ist der Anteil jeder Wohnung am Gesamtergebnis?
+- Wie hat sich das Ergebnis je Wohnung im Vergleich zum Vorjahr verändert?
 
 **Kostenanalyse**
 Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sowie deren Entwicklung über die Zeit sichtbar. Sie unterstützt die gezielte Identifikation von Einsparpotenzialen.
