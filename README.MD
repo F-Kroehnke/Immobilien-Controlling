@@ -6,8 +6,11 @@ Dieses Projekt umfasst ein Power BI Cockpit zur finanziellen Steuerung eines Imm
 
 Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur ein paar Minuten zu erhalten.
 - Einnahmen, Ausgaben, Betriebsergebnis
-- Kategorieanalyse (welche Kostenkategorien steigen, welche sinken?)
-- Wohnungsanalyse II (wie performt welche Wohnung)
+- Wohnungsanalyse (wie performt welche Wohnung)
+- Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
+- Mieteinnahmenübersicht (Detailvergleich Soll-Ist-Miete, Überprüfung von Abweichungen)
+- Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
+- Wohnungsanalyse II (Warum erzielt die Wohnung diese Ergebnisse?)
 Einnahmen, Ausgaben und das wirtschaftliche Ergebnis je Wohnung, Kategorie und Zeitraum nachvollziehbar darzustellen sowie Abweichungen zwischen Soll- und Ist-Mieten transparent zu machen.
 
 Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung des Portfolios geschaffen: Kostentreiber, Mietausfälle und Ertragsunterschiede zwischen einzelnen Objekten lassen sich frühzeitig erkennen und bewerten.
