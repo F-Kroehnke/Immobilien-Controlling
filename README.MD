@@ -4,7 +4,7 @@
 
 Dieses Projekt umfasst ein Power BI Cockpit zur finanziellen Steuerung eines Immobilienportfolios. Es konsolidiert Einnahmen, Ausgaben, Mietverträge und Wohnungsdaten zu einem einheitlichen Reporting.
 
-Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur ein paar Minuten zu erhalten.
+Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur wenigen Minuten zu erhalten.
 - Einnahmen, Ausgaben, Betriebsergebnis
 - Wohnungsanalyse (wie performt welche Wohnung)
 - Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
