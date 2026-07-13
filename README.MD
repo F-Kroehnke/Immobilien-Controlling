@@ -9,11 +9,10 @@ Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur ein paar
 - Wohnungsanalyse (wie performt welche Wohnung)
 - Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
 - Mieteinnahmenübersicht (Detailvergleich Soll-Ist-Miete, Überprüfung von Abweichungen)
-- Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
-- Wohnungsanalyse II (Warum erzielt die Wohnung diese Ergebnisse?)
-Einnahmen, Ausgaben und das wirtschaftliche Ergebnis je Wohnung, Kategorie und Zeitraum nachvollziehbar darzustellen sowie Abweichungen zwischen Soll- und Ist-Mieten transparent zu machen.
+- Detailanalyse Wohnung (Wie entwickeln sich die Betriebsergebnisse einer konkreten Wohnung und warum?)
+- Detailanalyse Kategorie (Wie entwickeln sich die Kosten einer konkreten Kategorie und warum?)
 
-Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung des Portfolios geschaffen: Kostentreiber, Mietausfälle und Ertragsunterschiede zwischen einzelnen Objekten lassen sich frühzeitig erkennen und bewerten.
+Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung des Portfolios geschaffen.
 
 ## 2. Dashboard Übersicht
 
