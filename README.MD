@@ -27,7 +27,7 @@ Durch die Konsolidierung von Mietverträgen, Transaktionen und Kosten entsteht e
 ## 3. Dashboard Seiten
 
 **Finanzübersicht**
-Diese Seite zeigt die wirtschaftliche Gesamtsituation des Portfolios: Einnahmen, Ausgaben und das daraus resultierende Ergebnis im Zeitverlauf sowie kumuliert über die Jahre. Sie dient als Einstiegspunkt, um die finanzielle Entwicklung auf einen Blick zu erfassen.
+- Diese Seite zeigt die wirtschaftliche Gesamtsituation des Portfolios: Einnahmen, Ausgaben und das daraus resultierende Ergebnis im Zeitverlauf sowie kumuliert über die Jahre. Sie dient als Einstiegspunkt, um die finanzielle Entwicklung auf einen Blick zu erfassen.
 *(Screenshot oben bereits gezeigt – kein zweites Bild nötig)*
 
 **Wohnungsanalyse**
