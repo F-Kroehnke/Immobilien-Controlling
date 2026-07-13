@@ -10,7 +10,7 @@ Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur wenigen 
 - Einnahmen, Ausgaben, Betriebsergebnis
 - Wohnungsanalyse (wie performt welche Wohnung)
 - Kategorieanalyse (Wie entwickeln sich die Kosten der unterschiedlichen Kategorien)
-- Mieteinnahmenübersicht (Detailvergleich Soll-Ist-Miete, Überprüfung von Abweichungen)
+- Mieteinnahmenübersicht (Detailvergleich Soll-Ist-Miete, Überprüfung von Mietausfällen)
 - Detailanalyse Wohnung (Wie entwickeln sich die Betriebsergebnisse einer konkreten Wohnung und warum?)
 - Detailanalyse Kategorie (Wie entwickeln sich die Kosten einer konkreten Kategorie und warum?)
 
