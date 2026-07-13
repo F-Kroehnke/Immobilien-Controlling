@@ -92,15 +92,13 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
 
 ## 4. Skills Showcase
 
-- Power BI
-- Excel
-- GitHub
+- Power BI, Excel
 - Datenmodellierung (Star-Schema-Design)
 - Power Query
-- Datumstabelle
 - Data Cleaning und Datenaufbereitung
 - Data Visualization
 - Business Analysis im Immobilienkontext
+- Datumstabelle
 - KPI-Erstellung DAX:
   - CALCULATE()
   - FILTER()
@@ -109,7 +107,9 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
   - DIVIDE()
   - DISTINCTCOUNT()
   - SAMEPERIODLASTYEAR()
+- KPI Dokumentation
 - Strukturierung von Measures in themenbezogenen Tabellen (Finanz-, Portfolio- und Ausgabenkennzahlen)
+- GitHub
 
 ## 5. Datenmodell
 
