@@ -16,9 +16,11 @@ Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immo
 
 ## 2. Dashboard Übersicht
 
-Das Dashboard bietet eine konsolidierte Sicht auf alle finanzrelevanten Kennzahlen eines Immobilienportfolios – von der Gesamtperformance bis zur Analyse einzelner Wohnungen und Kostenkategorien. Es verbindet Zeitreihenanalysen, Objektvergleiche und Detailtransaktionen in einem zusammenhängenden Reporting.
+Das Dashboard bietet eine zentrale Übersicht über die finanzielle Performance eines Immobilienportfolios, von Gesamtkennzahlen bis zur Analyse einzelner Wohnungen und Kostenkategorien. Es verbindet Zeitreihen, Objektvergleiche und Detailtransaktionen in einem einheitlichen Reporting.
 
-Der Mehrwert liegt in der Zusammenführung verteilter Einzeldaten (Mietverträge, Transaktionen, Kosten) zu einem durchgängigen Controlling-Instrument, das Trends, Abweichungen und Handlungsbedarf sichtbar macht, ohne dass manuelle Auswertungen erforderlich sind.
+Alle Ansichten können über gemeinsame Filter nach Jahr und Wohnung eingegrenzt werden, um gezielte Analysen einzelner Objekte oder Zeiträume zu ermöglichen.
+
+Durch die Konsolidierung von Mietverträgen, Transaktionen und Kosten entsteht ein automatisiertes Controlling-Instrument, das Trends, Abweichungen und Optimierungspotenziale transparent macht.
 
 ## 3. Dashboard Seiten
 
