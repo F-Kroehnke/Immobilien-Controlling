@@ -48,24 +48,46 @@ Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinande
 - Wie hat sich das Ergebnis je Wohnung im Vergleich zum Vorjahr verändert?
 
 **Kostenanalyse**
-Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sowie deren Entwicklung über die Zeit sichtbar. Sie unterstützt die gezielte Identifikation von Einsparpotenzialen.
+
+Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sichtbar.
 
 ![Seite3](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%203%2C%20Kostenanalyse.png)
 
+- Welche Kostenkategorien verursachen die höchsten Ausgaben?
+- Wie hoch sind die durchschnittlichen Monatsausgaben je Kategorie?
+- Wie haben sich die Ausgaben im Vergleich zum Vorjahr verändert?
+- Wie ist der prozentuale Anteil der einzelnen Kategorien an den Gesamtausgaben?
+
 **Mieteinnahmenübersicht**
-Im Mittelpunkt steht der Vergleich von Soll- und Ist-Miete sowie der Zahlungsstatus je Wohnung und Monat. Die Seite macht Mietausfälle und Überzahlungen sichtbar und unterstützt das Forderungsmanagement.
+
+Diese Seite stellt Soll- und Ist-Mieten gegenüber und macht den Zahlungsstatus je Wohnung transparent.
 
 ![Seite4](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
 
+- Wie hoch ist der Unterschied zwischen Soll- und Ist-Miete?
+- Welche Wohnungen weisen Mietausfälle oder Überzahlungen auf?
+- Wie ist der aktuelle Zahlungsstatus je Wohnung und Monat?
+- Wie hoch sind die kumulierten Sollkosten im betrachteten Zeitraum?
+
 **Wohnungsanalyse II**
-Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und zeigt Einzelbuchungen je Objekt im Zeitverlauf. Sie ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung pro Wohnung.
+
+Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung je Objekt.
 
 ![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%205%2C%20Wohnungsanalyse%20II.png)
 
+- Welche Einzeltransaktionen liegen dem Ergebnis einer Wohnung zugrunde?
+- Wie entwickeln sich Einnahmen und Ausgaben einer Wohnung im Monatsverlauf?
+- Wie hoch ist das durchschnittliche monatliche Ergebnis je Wohnung?
+
 **Kategorieanalyse**
-Hier werden Ausgaben über mehrere Jahre und Wohnungen hinweg nach Kategorie und Typ analysiert. Die Seite liefert eine detaillierte Kostenübersicht inklusive durchschnittlicher Ausgaben pro Wohnung und Monat.
+Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeiträume hinweg.
 
 ![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%206%2C%20Wohnungsanalyse%20II.png)
+
+- Wie entwickeln sich die Ausgaben einer Kategorie über mehrere Jahre?
+- Welche Wohnungen erzeugen in einer Kategorie die höchsten Kosten?
+- Wie hoch sind die durchschnittlichen Ausgaben pro Wohnung und Monat?
+- Welche Einzeltransaktionen stecken hinter den Kategorieausgaben?
 
 ## 4. Skills Showcase
 
