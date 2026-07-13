@@ -118,17 +118,16 @@ Das Datenmodell folgt einem Star-Schema und trennt Fakten- von Dimensionsdaten.
 
 ![Seite1](https://github.com/F-Kroehnke/Test/blob/b4dc81aa3d9da574308acd3e2940506ce7f06f4e/Bilder/Datenmodell.png)
 
-Die zentralen Faktentabellen sind 
+Die zentralen **Faktentabellen** sind 
+- Fact_Transaktionen (Einzelbuchungen mit Betrag, Datum, Kategorie und Wohnungszuordnung) und
+- Fact_Mietkonditionen (vertragliche Soll-Mieten und Nebenkosten je Mietvertrag und Gültigkeitszeitraum).
 
-- **Fact_Transaktionen** (Einzelbuchungen mit Betrag, Datum, Kategorie und Wohnungszuordnung) und
-- **Fact_Mietkonditionen** (vertragliche Soll-Mieten und Nebenkosten je Mietvertrag und Gültigkeitszeitraum).
-
-Diesen sind folgende Dimensionstabellen zugeordnet: 
-- **Dim_Wohnung** (Objektstammdaten)
-- **Dim_Kategorie** (Klassifizierung von Einnahmen und Ausgaben) 
-- **Dim_Datum** (Zeitintelligenz)
-- **Dim_Mieter** (Mieterstammdaten)
-- **Dim_Mietvertrag** (Vertragsinformationen, verknüpft mit Wohnung und Mieter).
+Diesen sind folgende **Dimensionstabellen** zugeordnet: 
+- Dim_Wohnung (Objektstammdaten)
+- Dim_Kategorie (Klassifizierung von Einnahmen und Ausgaben) 
+- Dim_Datum (Zeitintelligenz)
+- Dim_Mieter (Mieterstammdaten)
+- Dim_Mietvertrag (Vertragsinformationen, verknüpft mit Wohnung und Mieter).
 
 ## 6. Abschluss
 
