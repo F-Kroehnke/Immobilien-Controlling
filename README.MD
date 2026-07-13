@@ -27,7 +27,9 @@ Durch die Konsolidierung von Mietverträgen, Transaktionen und Kosten entsteht e
 ## 3. Dashboard Seiten
 
 **Finanzübersicht**
+
 Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
+
 - Wie hoch ist das aktuelle Gesamtergebnis des Portfolios?
 - Wie haben sich Einnahmen und Ausgaben über die Zeit entwickelt?
 - Wie verteilt sich das Ergebnis auf die einzelnen Wohnungen?
@@ -36,6 +38,7 @@ Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 *(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
 **Wohnungsanalyse**
+
 Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinander.
 
 ![Seite2](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
