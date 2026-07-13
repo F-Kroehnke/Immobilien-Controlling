@@ -99,7 +99,6 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
 - Business Analysis im Immobilienkontext
 - KPI-Definition (Ergebnis, YoY-Veränderung, Ist-/Soll-Vergleich, Anteilskennzahlen)
 - Strukturierung von Measures in themenbezogenen Tabellen (Finanz-, Portfolio- und Ausgabenkennzahlen)
-- Berücksichtigung datenschutzrelevanter Aspekte bei personenbezogenen Daten (DSGVO)
 
 ## 5. Datenmodell
 
