@@ -17,6 +17,8 @@ Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immo
 
 ![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
 
+(Screenshot für erste Berichtsseite (Finanzübersicht). Erläuterung der Berichtsseite unter 3.)
+
 ## 2. Dashboard Übersicht
 
 Das Dashboard bietet eine zentrale Übersicht über die finanzielle Performance eines Immobilienportfolios, von Gesamtkennzahlen bis zur Analyse einzelner Wohnungen und Kostenkategorien. Es verbindet Zeitreihen, Objektvergleiche und Detailtransaktionen in einem einheitlichen Reporting.
