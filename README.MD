@@ -28,14 +28,14 @@ Durch die Konsolidierung von Mietverträgen, Transaktionen und Kosten entsteht e
 
 **Finanzübersicht**
 
+*(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
+
 Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 
 - Wie hoch ist das aktuelle Gesamtergebnis des Portfolios?
 - Wie haben sich Einnahmen und Ausgaben über die Zeit entwickelt?
 - Wie verteilt sich das Ergebnis auf die einzelnen Wohnungen?
 - Wie entwickelt sich das kumulative Ergebnis über die Jahre?
-
-*(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
 **Wohnungsanalyse**
 
