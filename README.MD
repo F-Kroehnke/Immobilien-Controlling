@@ -1,7 +1,5 @@
 # Immobilien-Controlling – Power BI Projekt
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
-
 ## 1. Einführung
 
 Dieses Projekt umfasst ein Power BI Cockpit zur finanziellen Steuerung eines Immobilienportfolios. Es konsolidiert Einnahmen, Ausgaben, Mietverträge und Wohnungsdaten zu einem einheitlichen Reporting.
@@ -15,6 +13,8 @@ Ziel ist es, eine klare Übersicht über ein Immobilienportfolio in nur wenigen 
 - Detailanalyse Kategorie (Wie entwickeln sich die Kosten einer konkreten Kategorie und warum?)
 
 Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios geschaffen.
+
+![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
 
 ## 2. Dashboard Übersicht
 
