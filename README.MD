@@ -92,6 +92,8 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
 
 ## 4. Skills Showcase
 
+Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologien und Fähigkeiten:
+
 - Power BI, Excel
 - Datenmodellierung (Star-Schema-Design)
 - Power Query
