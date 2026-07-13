@@ -96,8 +96,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologie
 
 - Power BI, Excel
 - Datenmodellierung (Star-Schema-Design)
-- Power Query
-- Data Cleaning und Datenaufbereitung
+- Data Cleaning und Datenaufbereitung (Power Query)
 - Data Visualization
 - Business Analysis im Immobilienkontext
 - Datumstabelle
