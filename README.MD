@@ -104,11 +104,11 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
 - KPI-Erstellung DAX:
   - CALCULATE()
   - FILTER()
-⭐ ALL()
-⭐ SUMX()
-⭐ DIVIDE()
-⭐ DISTINCTCOUNT()
-⭐ SAMEPERIODLASTYEAR()
+  - ALL()
+  - SUMX()
+  - DIVIDE()
+  - DISTINCTCOUNT()
+  - SAMEPERIODLASTYEAR()
 - Strukturierung von Measures in themenbezogenen Tabellen (Finanz-, Portfolio- und Ausgabenkennzahlen)
 
 ## 5. Datenmodell
