@@ -2,7 +2,7 @@
 
 ## 1. Einführung
 
-Dieses Projekt umfasst ein **Power BI Cockpi**t zur finanziellen Steuerung eines **Immobilienportfolios**.
+Dieses Projekt umfasst ein **Power BI Cockpit** zur finanziellen Steuerung eines **Immobilienportfolios**.
 
 Ziel ist es, eine schnelle und transparente Übersicht über die wirtschaftliche Entwicklung eines Immobilienportfolios zu ermöglichen. Der Bericht umfasst folgende Analysebereiche:
 
