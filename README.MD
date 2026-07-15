@@ -120,7 +120,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender **Technolog
 
 Das Datenmodell folgt einem **Star-Schema** und trennt **Fakten- von Dimensionsdaten**.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Datenmodell.png)
+![Seite1](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Datenmodell.png)
 
 Die zentralen **Faktentabellen** sind 
 - Fact_Transaktionen (Einzelbuchungen mit Betrag, Datum, Kategorie und Wohnungszuordnung) und
