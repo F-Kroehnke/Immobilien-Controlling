@@ -6,12 +6,12 @@ Dieses Projekt umfasst ein Power BI Cockpit zur finanziellen Steuerung eines Imm
 
 Ziel ist es, eine schnelle und transparente Übersicht über die wirtschaftliche Entwicklung eines Immobilienportfolios zu ermöglichen. Der Bericht umfasst folgende **Analysebereiche**:
 
-- Portfolioübersicht - Einnahmen, Ausgaben und Betriebsergebnis
-- Wohnungsanalyse - Performancevergleich einzelner Wohnungen
-- Kostenanalyse - Entwicklung und Vergleich verschiedener Kostenkategorien
-- Mieteinnahmenübersicht - Soll-Ist-Mietvergleich und Analyse von Mietabweichungen
-- Wohnungsdetailanalyse - Entwicklung des Betriebsergebnisses und Ursachenanalyse einzelner Wohnungen
-- Kategoriedetailanalyse - Detaillierte Untersuchung der Kostenentwicklung einzelner Kategorien
+- **Portfolioübersicht** - Einnahmen, Ausgaben und Betriebsergebnis
+- **Wohnungsanalyse** - Performancevergleich einzelner Wohnungen
+- **Kostenanalyse** - Entwicklung und Vergleich verschiedener Kostenkategorien
+- **Mieteinnahmenübersicht** - Soll-Ist-Mietvergleich und Analyse von Mietabweichungen
+- **Wohnungsdetailanalyse** - Entwicklung des Betriebsergebnisses und Ursachenanalyse einzelner Wohnungen
+- **Kategoriedetailanalyse** - Detaillierte Untersuchung der Kostenentwicklung einzelner Kategorien
 
 Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios geschaffen.
 
@@ -21,11 +21,11 @@ Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immo
 
 ## 2. Dashboard Übersicht
 
-Das Dashboard bietet eine zentrale Übersicht über die finanzielle Performance eines Immobilienportfolios, von Gesamtkennzahlen bis zur Analyse einzelner Wohnungen und Kostenkategorien. Es verbindet Zeitreihen, Objektvergleiche und Detailtransaktionen in einem einheitlichen Reporting.
+Das Dashboard bietet eine **zentrale Übersicht** über die finanzielle Performance eines Immobilienportfolios, von Gesamtkennzahlen bis zur Analyse einzelner Wohnungen und Kostenkategorien. Es verbindet Zeitreihen, Objektvergleiche und Detailtransaktionen in einem einheitlichen Reporting.
 
-Alle Ansichten können über gemeinsame Filter nach Jahr und Wohnung eingegrenzt werden, um gezielte Analysen einzelner Objekte oder Zeiträume zu ermöglichen.
+Alle Ansichten können über gemeinsame **Filter** nach Jahr und Wohnung eingegrenzt werden, um gezielte Analysen einzelner Objekte oder Zeiträume zu ermöglichen.
 
-Durch die Konsolidierung von Mietvertrags-, Transaktion-, Mieter und Wohnungsdaten entsteht ein automatisiertes Controlling-Instrument, das Trends, Abweichungen und Optimierungspotenziale transparent macht.
+Durch die Konsolidierung von **Mietvertrags-, Transaktion-, Mieter und Wohnungsdaten** entsteht ein **automatisiertes** Controlling-Instrument, das Trends, Abweichungen und Optimierungspotenziale transparent macht.
 
 ## 3. Dashboard Seiten
 
@@ -33,7 +33,7 @@ Durch die Konsolidierung von Mietvertrags-, Transaktion-, Mieter und Wohnungsdat
 
 *(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
-Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
+Diese Seite bildet den **wirtschaftlichen Gesamtüberblick** des Portfolios ab.
 
 - Wie hoch ist das aktuelle Gesamtergebnis des Portfolios?
 - Wie haben sich Einnahmen und Ausgaben über die Zeit entwickelt?
@@ -42,7 +42,7 @@ Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 
 **Wohnungsanalyse**
 
-Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinander.
+Diese Seite vergleicht die **Wirtschaftlichkeit der einzelnen Objekte** untereinander.
 
 ![Seite2](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
 
@@ -52,7 +52,7 @@ Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinande
 
 **Kostenanalyse**
 
-Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sichtbar.
+Diese Seite gliedert die **Ausgaben** nach Kategorien und macht die wesentlichen Kostentreiber sichtbar.
 
 ![Seite3](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%203%2C%20Kostenanalyse.png)
 
@@ -63,7 +63,7 @@ Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kos
 
 **Mieteinnahmenübersicht**
 
-Diese Seite stellt Soll- und Ist-Mieten gegenüber und macht den Zahlungsstatus je Wohnung transparent.
+Diese Seite stellt **Soll- und Ist-Mieten** gegenüber und macht den Zahlungsstatus je Wohnung transparent.
 
 ![Seite4](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
 
@@ -74,7 +74,7 @@ Diese Seite stellt Soll- und Ist-Mieten gegenüber und macht den Zahlungsstatus 
 
 **Wohnungsanalyse II**
 
-Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung je Objekt.
+Diese Seite ergänzt die Wohnungsanalyse um die **Transaktionsebene** und ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung je Objekt.
 
 ![Seite5](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%205%2C%20Wohnungsanalyse%20II.png)
 
@@ -84,7 +84,7 @@ Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglich
 
 **Kategorieanalyse**
 
-Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeiträume hinweg.
+Diese Seite analysiert die **Ausgaben auf Kategorieebene** über Wohnungen und Zeiträume hinweg.
 
 ![Seite6](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%206%2C%20Kategorieanalyse.png)
 
@@ -95,7 +95,7 @@ Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeitr
 
 ## 4. Skills Showcase
 
-Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologien und Fähigkeiten:
+Dieses Projekt demonstriert den praxisorientierten Einsatz folgender **Technologien und Fähigkeiten**:
 
 - Power BI, Excel
 - Datenmodellierung (Star-Schema-Design)
@@ -118,7 +118,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologie
 
 ## 5. Datenmodell
 
-Das Datenmodell folgt einem Star-Schema und trennt Fakten- von Dimensionsdaten.
+Das Datenmodell folgt einem **Star-Schema** und trennt **Fakten- von Dimensionsdaten**.
 
 ![Seite1](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Datenmodell.png)
 
@@ -135,9 +135,9 @@ Diesen sind folgende **Dimensionstabellen** zugeordnet:
 
 ## 6. Abschluss
 
-Dieses Projekt zeigt, wie ein vollständiges Immobilien-Controlling-Cockpit mit Power BI aufgebaut wird – von der Datenmodellierung über die Berechnung betriebswirtschaftlicher Kennzahlen bis zur verständlichen Visualisierung der Ergebnisse.
+Dieses Projekt zeigt, wie ein vollständiges **Immobilien-Controlling-Cockpit mit Power BI** aufgebaut wird – von der Datenmodellierung über die Berechnung betriebswirtschaftlicher Kennzahlen bis zur verständlichen Visualisierung der Ergebnisse.
 
-Im Mittelpunkt steht der Business Value: Eine konsolidierte, jederzeit abrufbare Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios, die Transparenz über Ertragslage, Kostenstruktur und Mietzahlungen schafft.
+Im Mittelpunkt steht der **Business Value**: Eine konsolidierte, jederzeit abrufbare Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios, die Transparenz über Ertragslage, Kostenstruktur und Mietzahlungen schafft.
 
 ## 7. Hinweis zum Projekt
 
