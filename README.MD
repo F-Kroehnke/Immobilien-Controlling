@@ -4,7 +4,7 @@
 
 Dieses Projekt umfasst ein **Power BI Cockpit** zur finanziellen Steuerung eines **Immobilienportfolios**.
 
-Ziel ist es, eine schnelle und transparente Übersicht über die wirtschaftliche Entwicklung eines Immobilienportfolios zu ermöglichen. Der Bericht umfasst folgende Analysebereiche:
+Ziel ist es, eine schnelle und transparente Übersicht über die **wirtschaftliche Entwicklung eines Immobilienportfolios** zu ermöglichen. Der Bericht umfasst folgende Analysebereiche:
 
 - **Portfolioübersicht** - Einnahmen, Ausgaben und Betriebsergebnis
 - **Wohnungsanalyse** - Performancevergleich einzelner Wohnungen
