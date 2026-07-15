@@ -15,7 +15,7 @@ Ziel ist es, eine schnelle und transparente Übersicht über die wirtschaftliche
 
 Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios geschaffen.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/c28355b1338ece708955e7af6df63ba0d015a58a/Bilder/Seite%201%2C%20Dashboard.png)
+![Seite1](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%201%2C%20Portfolio%C3%BCbersicht.png)
 
 *(Screenshot für erste Berichtsseite "Portfolioübersicht". Erläuterung der Berichtsseite unter 3.)*
 
