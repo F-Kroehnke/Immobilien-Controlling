@@ -97,7 +97,7 @@ Diese Seite analysiert die **Ausgaben auf Kategorieebene** über Wohnungen und Z
 
 Dieses Projekt demonstriert den praxisorientierten Einsatz folgender **Technologien und Fähigkeiten**:
 
-- Power BI, Excel, GitHub
+- Power BI, Excel, GitHub, PowerPoint (Design)
 - Datenmodellierung (Star-Schema-Design)
 - Data Cleaning und Datenaufbereitung (Power Query)
 - Data Visualization
