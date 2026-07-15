@@ -45,7 +45,6 @@ Diese Seite bildet den **wirtschaftlichen Gesamtüberblick** des Portfolios ab.
 Diese Seite vergleicht die **Wirtschaftlichkeit der einzelnen Objekte** untereinander.
 
 ![Seite2](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
-![Seite2](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
 
 - Welche Wohnung erzielt das beste Ergebnis?
 - Wie hoch ist der Anteil jeder Wohnung am Gesamtergebnis?
