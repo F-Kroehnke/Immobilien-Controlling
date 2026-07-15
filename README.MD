@@ -15,7 +15,7 @@ Ziel ist es, eine schnelle und transparente Übersicht über die **wirtschaftlic
 
 Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines Immobilienportfolios geschaffen.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%201%2C%20Portfolio%C3%BCbersicht.png)
+![Seite1](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Seite%201%2C%20Portfolio%C3%BCbersicht.png)
 
 *(Screenshot für erste Berichtsseite "Portfolioübersicht". Erläuterung der Berichtsseite unter 3.)*
 
@@ -65,7 +65,7 @@ Diese Seite gliedert die **Ausgaben** nach Kategorien und macht die wesentlichen
 
 Diese Seite stellt **Soll- und Ist-Mieten** gegenüber und macht den Zahlungsstatus je Wohnung transparent.
 
-![Seite4](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
+![Seite4](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
 
 - Wie hoch ist der Unterschied zwischen Soll- und Ist-Miete?
 - Welche Wohnungen weisen Mietausfälle oder Überzahlungen auf?
@@ -86,7 +86,7 @@ Diese Seite ergänzt die Wohnungsanalyse um die **Transaktionsebene** und ermög
 
 Diese Seite analysiert die **Ausgaben auf Kategorieebene** über Wohnungen und Zeiträume hinweg.
 
-![Seite6](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%206%2C%20Kategorieanalyse.png)
+![Seite6](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/main/Bilder/Seite%206%2C%20Kategorieanalyse.png)
 
 - Wie entwickeln sich die Ausgaben einer Kategorie über mehrere Jahre?
 - Welche Wohnungen erzeugen in einer Kategorie die höchsten Kosten?
