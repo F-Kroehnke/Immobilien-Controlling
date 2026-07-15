@@ -44,7 +44,7 @@ Diese Seite bildet den wirtschaftlichen Gesamtüberblick des Portfolios ab.
 
 Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinander.
 
-![Seite2](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
+![Seite2](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%202%2C%20Wohnungsanalyse.png)
 
 - Welche Wohnung erzielt das beste Ergebnis?
 - Wie hoch ist der Anteil jeder Wohnung am Gesamtergebnis?
@@ -54,7 +54,7 @@ Diese Seite vergleicht die Wirtschaftlichkeit der einzelnen Objekte untereinande
 
 Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kostentreiber sichtbar.
 
-![Seite3](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%203%2C%20Kostenanalyse.png)
+![Seite3](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%203%2C%20Kostenanalyse.png)
 
 - Welche Kostenkategorien verursachen die höchsten Ausgaben?
 - Wie hoch sind die durchschnittlichen Monatsausgaben je Kategorie?
@@ -65,7 +65,7 @@ Diese Seite gliedert die Ausgaben nach Kategorien und macht die wesentlichen Kos
 
 Diese Seite stellt Soll- und Ist-Mieten gegenüber und macht den Zahlungsstatus je Wohnung transparent.
 
-![Seite4](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
+![Seite4](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%204%2C%20Mieteinnahmen%C3%BCbersicht.png)
 
 - Wie hoch ist der Unterschied zwischen Soll- und Ist-Miete?
 - Welche Wohnungen weisen Mietausfälle oder Überzahlungen auf?
@@ -76,7 +76,7 @@ Diese Seite stellt Soll- und Ist-Mieten gegenüber und macht den Zahlungsstatus 
 
 Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglicht eine detaillierte Nachvollziehbarkeit der Ergebnisentwicklung je Objekt.
 
-![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%205%2C%20Wohnungsanalyse%20II.png)
+![Seite5](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%205%2C%20Wohnungsanalyse%20II.png)
 
 - Welche Einzeltransaktionen liegen dem Ergebnis einer Wohnung zugrunde?
 - Wie entwickeln sich Einnahmen und Ausgaben einer Wohnung im Monatsverlauf?
@@ -86,7 +86,7 @@ Diese Seite ergänzt die Wohnungsanalyse um die Transaktionsebene und ermöglich
 
 Diese Seite analysiert die Ausgaben auf Kategorieebene über Wohnungen und Zeiträume hinweg.
 
-![Seite5](https://github.com/F-Kroehnke/Test/blob/89b313cd7e79611e536ef34946757fa1e736390a/Bilder/Seite%206%2C%20Wohnungsanalyse%20II.png)
+![Seite6](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%206%2C%20Kategorieanalyse.png)
 
 - Wie entwickeln sich die Ausgaben einer Kategorie über mehrere Jahre?
 - Welche Wohnungen erzeugen in einer Kategorie die höchsten Kosten?
@@ -120,7 +120,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender Technologie
 
 Das Datenmodell folgt einem Star-Schema und trennt Fakten- von Dimensionsdaten.
 
-![Seite1](https://github.com/F-Kroehnke/Test/blob/b4dc81aa3d9da574308acd3e2940506ce7f06f4e/Bilder/Datenmodell.png)
+![Seite1](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Datenmodell.png)
 
 Die zentralen **Faktentabellen** sind 
 - Fact_Transaktionen (Einzelbuchungen mit Betrag, Datum, Kategorie und Wohnungszuordnung) und
