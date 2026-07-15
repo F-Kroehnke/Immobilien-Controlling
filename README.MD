@@ -54,7 +54,7 @@ Diese Seite vergleicht die **Wirtschaftlichkeit der einzelnen Objekte** unterein
 
 Diese Seite gliedert die **Ausgaben** nach Kategorien und macht die wesentlichen Kostentreiber sichtbar.
 
-![Seite3](https://github.com/F-Kroehnke/Test/blob/main/Bilder/Seite%203%2C%20Kostenanalyse.png)
+![Seite3](https://github.com/F-Kroehnke/Immobilien-Controlling/blob/996c621d3444955fe0bb3a2b9641e9b3645a42c1/Bilder/Seite%203%2C%20Kostenanalyse.png)
 
 - Welche Kostenkategorien verursachen die höchsten Ausgaben?
 - Wie hoch sind die durchschnittlichen Monatsausgaben je Kategorie?
