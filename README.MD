@@ -25,7 +25,7 @@ Das Dashboard bietet eine zentrale Übersicht über die finanzielle Performance 
 
 Alle Ansichten können über gemeinsame Filter nach Jahr und Wohnung eingegrenzt werden, um gezielte Analysen einzelner Objekte oder Zeiträume zu ermöglichen.
 
-Durch die Konsolidierung von Mietverträgen, Transaktionen und Kosten entsteht ein automatisiertes Controlling-Instrument, das Trends, Abweichungen und Optimierungspotenziale transparent macht.
+Durch die Konsolidierung von Mietvertrags-, Transaktion-, Mieter und Wohnungsdaten entsteht ein automatisiertes Controlling-Instrument, das Trends, Abweichungen und Optimierungspotenziale transparent macht.
 
 ## 3. Dashboard Seiten
 
